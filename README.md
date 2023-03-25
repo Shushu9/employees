@@ -1,3 +1,10 @@
+Deploy 
+
+[https://shushu9.github.io/employees/build/](https://shushu9.github.io/employees/build/)
+
+First React App for employees sallary check
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
